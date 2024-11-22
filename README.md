@@ -13,3 +13,7 @@ The EDPB's firm rejection of "pay or okay" systems underscores the intrinsic val
 The paper concludes by highlighting the tension between monetizing digital content and safeguarding individual privacy. It calls for a reevaluation of data as a tradable commodity, proposing stricter 
 regulatory measures to prevent the commodification of personal information. Ultimately, the study underscores the necessity of framing personal data as an extension of individual identity, 
 rather than a commercial asset, in alignment with the core principles of the GDPR.
+
+## License
+All Rights Reserved.
+
