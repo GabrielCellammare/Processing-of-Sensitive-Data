@@ -14,6 +14,8 @@ The paper concludes by highlighting the tension between monetizing digital conte
 regulatory measures to prevent the commodification of personal information. Ultimately, the study underscores the necessity of framing personal data as an extension of individual identity, 
 rather than a commercial asset, in alignment with the core principles of the GDPR.
 
+![image](https://github.com/user-attachments/assets/daaec7bc-2664-448e-b45c-dc826e0e8bf5)
+
 ## License
 All Rights Reserved.
 
